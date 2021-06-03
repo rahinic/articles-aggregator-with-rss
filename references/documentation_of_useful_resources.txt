@@ -1,1 +1,4 @@
-<TBA>
+1. Project idea from: https://www.codementor.io/projects/tool/rss-feed-reader-in-terminal-atx32jp82q
+2. About RSS feeds: https://rss.com/blog/how-do-rss-feeds-work/
+3. Newspaper RSS feeds taken from: https://rss.com/blog/popular-rss-feeds/
+4. Simple feedparser tutorial: https://www.tutorialspoint.com/python_text_processing/python_reading_rss_feed.htm
