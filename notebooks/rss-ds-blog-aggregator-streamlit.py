@@ -1,4 +1,4 @@
-
+"""Data Science Blogs Aggregator with Feedparser and Streamlit"""
 # Necessary Library Imports:
 import feedparser
 import streamlit as st
