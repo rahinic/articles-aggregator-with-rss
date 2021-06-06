@@ -14,6 +14,5 @@ pip install streamlit
 
 ## 4. Execution:
 In your terminal, 
->streamlit run rss-news-aggregator-with-streamlit.py
->python rss-feed-with-feedparser-library.py
-_both .ipynb notebook and .py scripts can be found in this repository.
+- streamlit run rss-news-aggregator-with-streamlit.py
+- python rss-feed-with-feedparser-library.py
