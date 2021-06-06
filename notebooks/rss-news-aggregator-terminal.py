@@ -1,4 +1,4 @@
-"""RSS feed aggregator using feedparser library"""
+"""RSS feed aggregator of popular newspaper agents using feedparser library"""
 
 # Necessary Library Imports:
 import feedparser
