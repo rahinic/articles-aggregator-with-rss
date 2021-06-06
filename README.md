@@ -1,7 +1,7 @@
 # RSS Feed Reader
 
-## Dataset: 
-RSS feeds from data science blogs such as Towards Data Science and KDnuggets
+## Datasets: 
+RSS feeds from data science blogs such as Towards Data Science and KDnuggets <br>
 RSS feeds from news agents such as CNN and Huffingtonpost. 
 
 ## Summary: 
