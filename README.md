@@ -1,4 +1,4 @@
-# RSS Feed Reader
+# Web Articles Aggregator
 
 ## Datasets: 
 RSS feeds from data science blogs such as Towards Data Science and KDnuggets <br>
@@ -9,10 +9,10 @@ RSS feeds from news agents such as CNN and Huffingtonpost.
 (ii) Given a dict of news agencies RSS feed urls, the script parses the RSS contents and outputs to the terminal, the following information <News Headlines | Link to the article | Headline Summary>
 
 ## Necessary Packages:
-pip install feedparser
+pip install feedparser <br>
 pip install streamlit
 
 ## Execution:
 In your terminal, 
-- >streamlit run rss-news-aggregator-with-streamlit.py
-- >python rss-feed-with-feedparser-library.py
+- streamlit run rss-news-aggregator-with-streamlit.py
+- python rss-feed-with-feedparser-library.py
