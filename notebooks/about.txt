@@ -1,4 +1,6 @@
 This folder consists of the script used to aggregate news using RSS 
 
-File 1: rss-feed-with-feedparser.py- Uses feedparser library to parse the RSS feed and aggregate the following news information: Headline | weblink | Headline summary
-File 2: <TBA>- same task done without using feedparser library.
+File 1: rss-ds-blog-aggregator-streamlit.py- An expandable dictionary of datascience blog rss links, which are aggregated and displayed at your localhost address using streamlit
+File 2: rss-news-aggregator-terminal.py- An expandable dictionary of popular news agency rss links which are aggregated and displayed at your local terminal.
+
+
